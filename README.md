@@ -1,7 +1,7 @@
 
 # Get Started with Git
 ## What is Git?
-
+Now is the time for all good Gits to come to the aide of their Bash
 
 ## How can technical writers use git
 companies are using git for writing, editing and documentation collaboration
