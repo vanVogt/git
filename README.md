@@ -22,7 +22,7 @@ Please be aware similar Gitlab instructions - if that is a preference.
 
 2. Create an account
 
-3. Go to the workshop repohttps://github.com/foss-style/
+3. Go to the workshop repo
     https://github.com/foss-style/
 
 ## Fork repo
