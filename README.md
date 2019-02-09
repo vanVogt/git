@@ -1,7 +1,7 @@
 
 # Get Started with Git
 ## What is Git?
-
+HI, EVERYBODY!
 
 ## How can technical writers use git
 companies are using git for writing, editing and documentation collaboration
