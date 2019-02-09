@@ -39,7 +39,11 @@ Please be aware similar Gitlab instructions - if that is a preference.
     
    
 ## Work on files in the local repo
+   
    git status
+   
    git add .
-   git commit -m "this text"
-   git push origin master
+  
+  git commit -m "this text"
+  
+  git push origin master
